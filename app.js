@@ -3,7 +3,7 @@ const os = require('os');
 const moment = require('moment');
 
 const app = express();
-const port = 3000;
+const port = 5000;
 
 // Configurar EJS como a engine de visualização
 app.set('view engine', 'ejs');
